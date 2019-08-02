@@ -1,0 +1,6 @@
+﻿token=NjA2Nzk1NjM4NjIwODE1MzYw.XUQQgA.sh1fhOaQRHCvrEyYCRaV3O9ePL4
+owner=408926307372498945
+prefix= A
+game= AdaàM , 6rB 
+stayinchannel=true
+songinstatus=false 
